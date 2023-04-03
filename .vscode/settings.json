@@ -1,0 +1,108 @@
+{
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment.line.configuration.robotframework",
+                "settings": {
+                    "fontStyle": "bold"
+                }
+            },
+            {
+                "scope": "entity.name.function.keyword-call.keyword-call.inner.robotframework",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "string.unquoted.embeddedArgument.robotframework",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "entity.name.function.keyword-call.keyword-call.robotframework",
+                "settings": {}
+            },
+            {
+                "scope": "entity.name.function.testcase.name.robotframework",
+                "settings": {
+                    "fontStyle": "bold italic"
+                }
+            },
+            {
+                "scope": "entity.name.function.keyword.name.robotframework",
+                "settings": {
+                    "fontStyle": "bold italic"
+                }
+            },
+            {
+                "scope": "variable.other.readwrite.robotframework",
+                "settings": {}
+            },
+            {
+                "scope": "keyword.control.import.robotframework",
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": "keyword.other.header.setting.robotframework",
+                "settings": {
+                    "fontStyle": "bold underline"
+                }
+            },
+            {
+                "scope": "keyword.other.header.variable.robotframework",
+                "settings": {
+                    "fontStyle": "bold underline"
+                }
+            },
+            {
+                "scope": "keyword.other.header.testcase.robotframework",
+                "settings": {
+                    "fontStyle": "bold underline"
+                }
+            },
+            {
+                "scope": "keyword.other.header.keyword.robotframework",
+                "settings": {
+                    "fontStyle": "bold underline"
+                }
+            },
+            {
+                "scope": "keyword.other.header.setting.robotframework",
+                "settings": {
+                    "fontStyle": "bold underline"
+                }
+            },
+            {
+                "scope": "keyword.other.header.comment.robotframework",
+                "settings": {
+                    "fontStyle": "bold italic underline"
+                }
+            },
+            {
+                "scope": "constant.character.escape.robotframework",
+                "settings": {}
+            },
+            {
+                "scope": "googletest.failed",
+                "settings": {
+                    "foreground": "#f00"
+                }
+            },
+            {
+                "scope": "googletest.passed",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            },
+            {
+                "scope": "googletest.run",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            }
+        ]
+    }
+}

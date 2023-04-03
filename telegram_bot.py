@@ -3,10 +3,6 @@ import socket
 from pytube import YouTube
 # import telegram
 
-# you_tube_getter_bot
-# Use this token to access the HTTP API:
-# 5944060449:AAGtnddzZ6IWX1-IjSgUWfXDMauujVWHNr4
-
 # Replace YOUR_BOT_TOKEN with your bot token
 # bot = telegram.Bot(token='YOUR_BOT_TOKEN')
 
