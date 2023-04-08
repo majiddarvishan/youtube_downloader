@@ -1,0 +1,2 @@
+PySocks==1.7.1
+pytube==12.1.3
